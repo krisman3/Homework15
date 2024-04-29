@@ -8,7 +8,7 @@ Using Magic Method. Part 6
 
 Task 1:
 Create a base class Shape with a method for calculating 
-the area. Create derived classes: a rectangle, circle, right triangle, trapezoid with their own methods for calculating the area.
+the area. Create derived classes: a rectangle, circle, right triangle, trapezoid with their own methods for calculating the area.
 
 Task 2
 Override the int (returns the area) and str (returns info 
